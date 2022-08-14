@@ -1,0 +1,3 @@
+﻿  kalkylator.cpp
+C:\Users\Hackk\source\repos\kalkylator\kalkylator\kalkylator.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  kalkylator.vcxproj -> C:\Users\Hackk\source\repos\kalkylator\Debug\kalkylator.exe
